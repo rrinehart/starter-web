@@ -8,7 +8,7 @@ more changes. just because.
 ## Purpose
 
 Sample website with plenty of files for demos
-adding a line for rebasing example.
+adding a line for rebasing example, THEN MORE changes from myfeature branch, too.
 ## Deployment
 
 this is a simple deployment.
