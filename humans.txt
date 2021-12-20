@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Rob Rinehart rrinehart@intercitytransit.com
+	
 # THANKS
 
     <name>
