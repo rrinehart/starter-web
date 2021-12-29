@@ -17,4 +17,4 @@ and one more.
 ## How to contribute
 
 ###Copyright
-2021 git.training.
+2021 git.training. All Rights reserved.
